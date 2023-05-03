@@ -1,1 +1,0 @@
-print('Olá Valdemar Carlos')
